@@ -1,4 +1,10 @@
 body{
- color: blueviolet;   
+ color: aquamarine;   
  background-color: black;
+}
+a{
+    color: black;
+}
+header{
+    background-color: white;
 }
