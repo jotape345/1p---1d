@@ -2,6 +2,13 @@ body{
  color: aquamarine;   
  background-color: black;
 }
+h3{
+    text-align: center;
+
+}
+.primeiro-título{
+color: purple;
+}
 a{
     color: black;
 }
