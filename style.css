@@ -1,17 +1,21 @@
 body{
- color: aquamarine;   
- background-color: black;
+ color: #FFF4B7;   
+ background-color: #003161;
 }
 h3{
     text-align: center;
 
 }
 .primeiro-título{
-color: purple;
+color: #000B58; 
+background-color:#FFF4B7 ;
+padding: 25px;
+margin: 20px;
 }
 a{
     color: black;
 }
 header{
-    background-color: white;
+ background-color: #006A67;
+    
 }
