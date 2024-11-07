@@ -1,21 +1,36 @@
 body{
  color: #FFF4B7;   
  background-color: #003161;
+ 
 }
 h3{
     text-align: center;
-
+margin: 100;
 }
 .primeiro-título{
 color: #000B58; 
 background-color:#FFF4B7 ;
 padding: 25px;
-margin: 20px;
+margin: 3px;
 }
 a{
     color: black;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
 }
 header{
  background-color: #006A67;
-    
+ color: wheat;
+ justify-content: space-between;
+ align-items: center;
+ display: flex;
+ text-align: center;
+ margin: 3px;
+padding: 2px;
 }
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
